@@ -1,6 +1,6 @@
 # Java 2D Game
 
-A 2D game built in Java during my time at university, featuring a custom GUI and three progressive levels of gameplay.
+A 2D Java-based platform game featuring multiple levels, animations, and interactive mechanics. Developed with object-oriented programming to handle gameplay logic, and leveraging the CityEngine library for visuals and physics.
 
 ## Features
 
